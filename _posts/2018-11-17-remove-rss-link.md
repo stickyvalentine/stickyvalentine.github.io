@@ -17,7 +17,7 @@ If you go there and poke around a little, you will see some files and directorie
 #### **Then**, make a copy of *_layouts > home.html*
 When you bring over a copy of this file, you want to keep the directory structure. That means that it should still be in a folder called *_layouts* which should be in the main site folder. You can make the folder and copy the html file using Finder or the command line. Just make sure everything has the same names.
 
-#### **Finally**, edit *_layouts > home.html*
+#### **Finally**, edit the new copy of *_layouts > home.html*
 Using your favorite text editor (mine is emacs), open *_layouts > home.html* and find the offending line. It should looks something like this:
 
 `<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>`
