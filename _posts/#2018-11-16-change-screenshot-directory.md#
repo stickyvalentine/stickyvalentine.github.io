@@ -4,8 +4,7 @@ title:  "Change screenshot folder in MacOS"
 date:   2018-11-16 18:58:30 -0800
 tags: [MacOS, Screenshots]
 ---
-*By default, MacOS saves screenshots (Command+Shidt+4) to the desktop. Ugh. Use this guide to make your life a tiny bit better.*
-
+*By default, screenshots go to 
 #### **First**, make a new folder
 You can use Finder or the command line to make a new folder. In *Finder* you can use right-click. In the command line you can use *mkdir*.
 
