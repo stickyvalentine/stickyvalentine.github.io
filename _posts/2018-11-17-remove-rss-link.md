@@ -3,12 +3,12 @@ layout: post
 title:  "Remove Link to RSS Feed in Minima"
 tags: [Jekyll, RSS, Gems, Themes, Minima]
 ---
-*Minima, the default Jekyll theme, comes with a RSS feed link. This is how to get rid of it*
+*Minima, the default Jekyll theme, comes with an RSS feed link. This is how to get rid of it*
 
 Its worth noting that the default *Minima* theme is Gem-based. That means that some of the theme files are stored somewhere other than your main site directory. When your site is built, Jekyll looks them up and uses them to build the site. But you can override them by putting an updated copy in your main directory. Then you can make changes to these copies and Jekyll will use them instead. 
 
 #### **First**, find the theme files
-You can find the theme files by typing `bundle show minima` into a termial window. Bundler will tell you where the files are on your system. In my case, bundler said this:
+You can find the theme files on your system by typing `bundle show minima` into a termial window. Bundler will tell you where the files are on your system. In my case, bundler said this:
 
 `/usr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.0`
 
