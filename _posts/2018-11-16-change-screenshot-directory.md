@@ -10,7 +10,7 @@ tags: [MacOS, Screenshots]
 You can use Finder or the command line to make a new folder. In *Finder* you can use right-click. In the command line you can use *mkdir*.
 
 #### **Then**, open terminal
-You can open by holding *command* and pressing the *spacebar*. Then type *terminal* and press *return*.
+You can open it by holding *command* and pressing the *spacebar*. Then type *terminal* and press *return*.
 
 #### **Finally**, type this
 In terminal type this, but change the path to match the path to your new folder.
