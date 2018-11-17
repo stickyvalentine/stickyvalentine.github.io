@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Remove Link to RSS Feed in Minima"
+date:   2018-11-16 18:58:30 -0800
+tags: [Jekyll, RSS, Gems, Themes, Minima]
+---
+*Minima, the default Jekyll theme comes with a RSS feed link. This is how to get rid of it*
+
+Its worth noting that this theme is Gem-based. That means that some of the theme files are stored somewhere other than your main site directory. When your site is built, Jekyll looks them up and uses them to build the site. But you can override them by putting an updated copy in your main directory. Then Jekyll will use thoses versions of the files instead.
+
+So you can put a copy of the files you want to change in your main directory and change them there.
+
+#### **First**, find the theme files
+You can use find the theme files by typing `bundle show minima` into a termial window. Bundler will tell you where the files are on your system. In my case, bundler said this:
+
+`/usr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.0`
+
+If you go there and poke around a little, you will see some files and directories. These will probably see directories called *_includes, _layouts, _sass,* and *assets*. The file we are looking for is *home.html* and it's in *_layouts*. 
+
+#### **Then**, make a copy of *_layout > home.html*
+
+
+#### **Finally**, type this
+In terminal type this, but change the path to match the path to your new folder.
+
+`defaults write com.apple.screencapture location /path/to/your/folder`
+
+**Now**, when you take a screenshot (*Command+Shift+4*) it will go straight to its comfy new home instead of crapping up your desktop.
