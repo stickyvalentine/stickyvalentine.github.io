@@ -6,4 +6,4 @@ At work, I was given the choice between a MacOS or a Windows machine. My default
 
 But since I started using the MacBook Air for work, I realized something that makes choosing between MacOS and Windows easier. MacOS natively supports some of the more prominent emacs keybindings when editing text fields. I realized it when I was editing a Google Doc and I instictively pressed `Ctrl-p` to move the cursor up a line and it worked. At first I thought that they must have changed Google Docs. But the next time I was using Docs on the Windows machine it didn't work. So I looked it up. [Sure enough](https://jblevins.org/log/kbd), those keybindings are built into MacOS.
 
-To me, this seems as good of a reason as any to prefer on OS to the other. I am currently trying to trade my Windows Desktop for an older iMac.
+To me, this seems as good of a reason as any to prefer one OS to the other.
