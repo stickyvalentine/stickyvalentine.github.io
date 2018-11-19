@@ -32,13 +32,13 @@ Here are some of the basics:
 
 |Keybinding |Action |
 |--------|-------|
-|⌃a |Jump to the start of the line |
-|⌃e |Jump to the end of the line (end)|
-|⌃f |Move the cursor forward |
-|⌃b |Move the cursor backward |
-|⌃n |Move the cursor down (next)|
-|⌃p |Move the cursor up (previous)|
-|⌃k |Delete to the end of the line (kill)|
+|Ctrl-a |Jump to the start of the line |
+|Ctrl-e |Jump to the end of the line (end)|
+|Ctrl-f |Move the cursor forward |
+|Ctrl-b |Move the cursor backward |
+|Ctrl-n |Move the cursor down (next)|
+|Ctrl-p |Move the cursor up (previous)|
+|Ctrl-k |Delete to the end of the line (kill)|
 
 Look at [Jason Blevin's post](https://jblevins.org/log/kbd) to see a detailed comparrison between
 Emacs and MacOS keybindings.

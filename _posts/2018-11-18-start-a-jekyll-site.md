@@ -11,7 +11,7 @@ This guide will get you started.</span>
  * It supports Markdown and Liquid.
  * You can do most of your work with just Emacs and Git.
  * It has a low barrier to entry.
- * GitHub will host your page for free.
+ * GitHub will host your site for free.
  * Static pages are cool.
 
 #### **First**, install Jekyll
@@ -54,7 +54,7 @@ Your site is running locally on your computer. To stop it type `Ctrl-c` in the t
 
 #### **Finally**, Make a new post.
 
-Posts go in the _posts directory. To add a new post, just make a new markdown (.md) file there. But
+Posts go in the `_posts` directory. To add a new post, make a new markdown file there. Just
 make sure your new file follows this naming convention:
 
 `yyyy-mm-dd-name-of-the-post.md`
