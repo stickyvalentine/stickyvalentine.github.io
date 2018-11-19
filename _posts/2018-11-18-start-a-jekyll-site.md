@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: post
 title: Start a Jekyll Site
-tags: [Jekyll, GitHub, Ruby, Bundler, Markdown, Liquid]
+tags: Jekyll GitHub Ruby Bundler Markdown Liquid
+abstract: "Get started using Jekyll to quicky and easily build static sites with Markdown and Liquid."
 ---
-<span style="color:#F778A1">Jekyll is a platform for quickly and easily creating static sites using Markdown and Liquid as well as HTML and CSS.
-This guide will get you started.</span>
-
 **There are a lot of reasons** to like Jekyll as a site building / blogging platform. Here are some of my favorites:
 
  * It supports Markdown and Liquid.

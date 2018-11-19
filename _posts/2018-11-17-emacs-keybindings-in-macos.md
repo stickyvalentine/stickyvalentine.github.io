@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emacs Keybindings in MacOS
-tags: [MacOS, Emacs, keybindings, Linux]
+tags: MacOS Emacs keybindings Linux
 ---
 At work, I was given the choice between a MacOS or a Windows machine. My default answer is to
 take the Windows machine and put Linux on it. In this case, that wasn't a practical option.

@@ -29,7 +29,9 @@
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
-
+    {% include archive.html %}
   </div>
-
 </footer>
+{%- if site.tags != "" -%}
+  {%- include collecttags.html -%}
+{%- endif -%}

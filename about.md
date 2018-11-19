@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+menu: true
 ---
 I'm Ben. I work at Western Oregon University as an LMS Support Specialist. In practical terms, I help people use Moodle.
 
