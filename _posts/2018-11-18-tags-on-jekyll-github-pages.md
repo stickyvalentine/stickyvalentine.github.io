@@ -74,4 +74,4 @@ menu: true
 ---
 ```
 
-Since none of the `tag:` pages have the `.menu` attribute, none of them will be included in the menu.
+Because none of the `tag:` pages have the `.menu` attribute, none of them will be included in the menu.
