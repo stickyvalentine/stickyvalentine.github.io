@@ -16,4 +16,4 @@ In terminal type this, but change the path to match the path to your new folder.
 
 `defaults write com.apple.screencapture location /path/to/your/folder`
 
-**Now**, when you take a screenshot (*Command+Shift+4*) it will go straight to its comfy new home instead of crapping up your desktop.
+**Now**, when you take a screenshot it will go straight to its comfy new home instead of crapping up your desktop.

@@ -11,15 +11,14 @@ that redefine the word 'proprietary'. Windows is a more accessible ad-driven mes
 of it's [many faults](https://www.youtube.com/watch?v=WipM3SAYqK4), the only OS that I feel
 any loyalty towards is Linux.
 
-But since I started using the MacBook Air for work, I realized something that makes choosing
+Since I started using the MacBook for work, I realized something that makes choosing
 between MacOS and Windows a bit easier. MacOS naively supports some of the basic Emacs
 keybindings when editing text fields. I discovered it when I was editing a Google Doc and
-reflexively pressed `Ctrl-p` to move the cursor up a line *and it worked*. I don't mean to
-overstate, but when it happened, the clouds parted and a single ray of sun shone down upon
-my caps lock key (which is switched to Ctrl). I even had a sense that somewhere,
-[St. IGNUcius](https://stallman.org/saint.html) gave a begrudging nod.
+reflexively pressed `Ctrl-p` to move the cursor up a line *and it worked*. Suddenly the clouds
+parted and a single ray of sun shone down upon my caps lock key (which is swapped with Ctrl).
+I even had a sense that somewhere, [St. IGNUcius](https://stallman.org/saint.html) gave a begrudging nod.
 
-I assumed Google Docs had starting supporting the keybindings. I promptly told several people
+At first, I assumed Google Docs had starting supporting the keybindings. I promptly told several people
 who politely pretended to care. But the next time I was using Docs on a Windows machine it
 didn't work. So I looked it up. [Sure enough](https://jblevins.org/log/kbd), those keybindings
 are built into MacOS. That means that these bindings work in *any* text field on MacOS.
