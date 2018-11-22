@@ -1,0 +1,6 @@
+---
+layout: post
+title: Customize Gem-based Jekyll Themes
+abstract: Gem-based Jekyll themes keep some of their parts tucked away in a Gemfile. This is how to make changes to the theme while keeping the Gemfile intact.
+tags: Gems themes Jekyll Gemfile
+---
