@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Change screenshot folder in MacOS"
-tags: MacOS Screenshot
+tags: MacOS Screenshots
 abstract: "By default, MacOS saves screenshots (Command+Shift+4) to the desktop. Ugh. Use this guide to make your life a tiny bit better."
 
 ---

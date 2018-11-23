@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tags with Jekyll / GitHub Pages"
-tags: tags Jekyll GitHub Pages Liquid Minima Theme
+tags: tags Jekyll GitHub Pages Liquid Minima themes
 abstract: "Adding tags to GitHub Pages mage with Jekyll can be tricky. Here's how I did it."
 ---
 For most of this guide I am going to defer to [Long Qian](http://longqian.me/) who's [awesome guide](http://longqian.me/2017/02/09/github-jekyll-tag/)

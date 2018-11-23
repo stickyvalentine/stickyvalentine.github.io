@@ -2,7 +2,7 @@
 layout: post
 title: Customize Gem-based Jekyll Themes
 abstract: Gem-based Jekyll themes keep some of their parts tucked away in a Gem. This is how to make changes to the theme while keeping the Gem intact.
-tags: Gems theme Jekyll
+tags: Gems themes Jekyll Bundler
 ---
 Some Jekyll themes are Gem-based meaning that parts of the theme are kept seperate from the site's main directory in a *Gem*. That way the gem can get updates from the theme developer without affecting the content of the site.
 
