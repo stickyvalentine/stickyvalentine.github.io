@@ -11,7 +11,7 @@ that redefine the word 'proprietary'. Windows is a more accessible ad-driven mes
 of it's [many faults](https://www.youtube.com/watch?v=WipM3SAYqK4), the only OS that I feel
 any loyalty towards is Linux.
 
-Since I started using the MacBook for work, I realized something that makes choosing
+Since I started using the MacBook, I realized something that makes choosing
 between MacOS and Windows a bit easier. MacOS naively supports some of the basic Emacs
 keybindings when editing text fields. I discovered it when I was editing a Google Doc and
 reflexively pressed `Ctrl-p` to move the cursor up a line *and it worked*. Suddenly the clouds
