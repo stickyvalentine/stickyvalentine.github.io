@@ -5,7 +5,7 @@ tags: MacOS Emacs keybindings Linux
 ---
 At work, I was given the choice between a MacOS or a Windows machine. My default answer is to
 take the Windows machine and put Linux on it. In this case, that wasn't a practical option.
-What I ended up with is a MacBook Air *and* a Windows Desktop. Overall, I'm indifferent to
+I ended up with a MacBook Air. Overall, I'm indifferent to
 these OSs and approach both with a bit of cynicism. Apple makes beautiful, expensive things
 that redefine the word 'proprietary'. Windows is a more accessible ad-driven mess. For all
 of it's [many faults](https://www.youtube.com/watch?v=WipM3SAYqK4), the only OS that I feel
