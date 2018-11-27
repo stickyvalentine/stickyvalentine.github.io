@@ -72,5 +72,3 @@ title: Newest Post
 To learn more about what you can do with *front matter* [read this](https://jekyllrb.com/docs/front-matter/).
 
 For Jekyll tutorials [go here](https://jekyllrb.com/tutorials/home/).
-
-To learn how to use GitHub pages to host your Jekyll site, check back later or [travel forward in time](https://www.news.com.au/technology/time-travel-possible-but-only-moving-forwards-says-stephen-hawking/news-story/07bb5bc3f786276c837ce99c7323583b) to my next post.
