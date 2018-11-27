@@ -24,6 +24,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+	  {{ post.abstract }}
       </li>
       {%- endfor -%}
     </ul>
