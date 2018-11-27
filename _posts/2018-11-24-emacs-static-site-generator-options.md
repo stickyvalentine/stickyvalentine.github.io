@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emacs + Static Site Generator Options'
-abstract: 'While Jekyll seems to suit my needs, It has made me curious about other publishing options that are available. Here, I look at a few of options that look interesting.'
+abstract: 'While Jekyll seems to suit my needs, It has made me curious about other publishing options that are available. Here, I look at a few that seem interesting.'
 tags: Emacs static-site-generator RSS Marmalade Melpa Org-Mode HTML Markdown Lisp Python CSS GitHub Pages
 ---
 #### Org-Static-Blog
