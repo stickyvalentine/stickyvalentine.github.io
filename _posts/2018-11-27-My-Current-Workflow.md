@@ -2,7 +2,7 @@
 layout: post
 title: 'My Current Workflow + Priorities'
 abstract: 'This is my current workflow for this blog but it's also somewhat representitive of the way I work generally, at least when I have my way.'
-tags: Emacs Lisp C editor Git Jekyll keybindings 
+tags: Emacs Lisp C editor Git Jekyll keybindings Python
 ---
 #### Emacs
 [Emacs](https://www.gnu.org/software/emacs/) is a 42 year old text editor developed by the MIT AI Lab, written in [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)). In fact, at its core it's a small Lisp interpreter written in C with the rest of the editor written in a dialect of Lisp specifically designed for Emacs called [Elisp](https://en.wikipedia.org/wiki/Emacs_Lisp). Emacs was based on [E](https://en.wikipedia.org/wiki/E_(text_editor)) which was the etitor that was used by Stanford's AI lab. The name Emacs stands for 'E with Macros'. The name refers the incredible extensibility of the editor which is often used to make [macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
