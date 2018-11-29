@@ -25,7 +25,7 @@ If it is't clear, my priorities in the tools I choose and way I work has a lot t
 I would rather not use a mouse if I can avoid it. This is because I am lazy and don't like to move my hands from the keyboard unless I have to.
 
 **No Noise.**
-I also like low noise environments. I don't really know what I mean but it probably has something to do with not switching between different UI's. I dunno.
+I like low noise environments. I don't really know what I mean but it probably has something to do with not switching between different UI's. I dunno.
 
 **Consistant Keybindings.**
 I have [mentioned before](/2018/11/17/emacs-keybindings-in-macos.html), I like having consistant keybindings for moving the cursor around. Again, lazy.
