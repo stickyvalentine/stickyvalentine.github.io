@@ -40,5 +40,5 @@ Here are some of the basics:
 |Ctrl-p |Move the cursor up (previous)|
 |Ctrl-k |Delete to the end of the line (kill)|
 
-Look at [Jason Blevin's post](https://jblevins.org/log/kbd) to see a detailed comparrison between
+Look at [Jason Blevin's post](https://jblevins.org/log/kbd) to see a detailed comparison between
 Emacs and MacOS keybindings.
