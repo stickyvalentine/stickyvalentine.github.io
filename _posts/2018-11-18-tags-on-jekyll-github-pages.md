@@ -19,8 +19,7 @@ The menu section in the header started showing all of the `tag:` pages that were
 I fixed it by making a `.menu` attribute for pages. Now a page will only show up in the menu if the the `.menu` attribute
 is set to `true` in the front matter. Here's how it set that up:
 
-**Make sure** you have a copy of `_includes/header.html` in your site directory. If you aren't sure where to get it,
-see [this post](/2018/11/17/remove-rss-link.html) for the general idea.
+**Make sure** you have a copy of `_includes/header.html` in your site directory. If you aren't sure where to get it, [this post](/2018/11/22/changing-gem-based-jekyll-themes.html) will help.
 
 `header.html` is the file that controls how the header displays, which is where the menu is. Specifically, this is the code
 that creates the menu:
