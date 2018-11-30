@@ -16,7 +16,7 @@ Besides the initial setup and occasional settings and layouts tweaks, I really o
 Before pushing changes to GitHub, I run a [python script](https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py) written by [Long Qian](http://longqian.me/). It reads the tags in the posts and creates a page for each tag that lists all of the posts that include that tag. Does that make sense?
 
 #### Git
-Because I have an easier time keeping track of things this way, I only work on my blog repository from one machine. Obviously, this is under-utilizing Git, but it suits my needs and and it helps me to keep things clean and tidy. I add, commit and push changes to GitHub which is smart enough to rebuild the site with Jekyll.
+Because I have an easier time keeping track of things this way, I usually only work on my blog repository from one machine. Obviously, this is under-utilizing Git, but it suits my needs and and it helps me to keep things clean and tidy. I add, commit and push changes to GitHub which is smart enough to rebuild the site with Jekyll.
 
 #### That's it
 If it isn't clear, my priorities in the tools I choose and way I work has a lot to do with my personal comfort. Here are my guiding tenets.
