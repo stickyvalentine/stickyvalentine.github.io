@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Accidentally Turning Complete"
-tags: Turing-Complete Gödel Church Turing Dwarf-Fortress games
+tags: Turing-Complete Gödel Church Turing Dwarf-Fortress games celular-automation Lambda-Calculus Rule-110 Conway's-Game-of-Life Langton's-Ant
 abstract: "'Turing Complete' describes a system that is computationally complete. Here are some things that are unexpectedly turing complete and a little history."
 ---
 ### Gödel Screws Everything Up
-Once uppon a time, in 1931, a guy named Kurt Gödel proved something bizare and alarming that turned mathematics upside down. For some time the world of mathematics was largely focused on trying to find a set of axioms that were sufficient to describe all mathematics. Then Gödel proved it wasn't possible. Just shut it down. The swift, fatal blow came in the form of the [Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) which proved that:
+Once uppon a time, in 1931, a guy named Kurt Gödel proved something bizare and alarming that turned mathematics upside down. For some time the world of mathematics was largely focused on trying to find a set of axioms to describe all mathematics. Then Gödel proved it wasn't possible. Just shut it down. The swift, fatal blow came in the form of the [Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) which proved that:
 
 1. A system of a certain complexity can't be both consistant and complete.
 
@@ -150,7 +150,9 @@ The value of a given position either changes or stays the same based on its prev
 |-----|-----|-----|-----|-----|-----|-----|-----|
 |  0  |  1  |  1  |  0  |  1  |  1  |  1  |  0  |
 
-In this patern, the absense of a value is considered 0. So a string containing a single 1 is thought to be flanked by on either side by infinite invisible 0's. It's unnecessary to evaluate all of these 0's because any group of 3 0's resolves to a 0. Until you get to number that *is* or is adjacent to a 1, everything is 0's.
+So, a 1 surrounded by 1's becomes a 0 in the next iteration.
+
+In this patern, the absense of a value is considered 0. So a string containing a single 1 is thought to be flanked by on either side by infinite invisible 0's. It's unnecessary to evaluate all of these 0's because any group of 3 0's resolves to a 0. Until you get to a number that *is* or is adjacent to a 1, everything is 0's.
 
 `001`<br>
 `011`<br>
@@ -171,15 +173,18 @@ One possible reason for the [interest](https://www.theguardian.com/science/alexs
 
 [R-pentomino](http://conwaylife.com/wiki/R-pentomino) is an early example of a [Methuselah](http://conwaylife.com/wiki/Methuselah) which is a pattern that takes a long time to stabilize and is noteworthy because of it's small size. 
 
-Another early discovery were [eaters](http://conwaylife.com/wiki/Eater) which are [still life](http://conwaylife.com/wiki/Still_life) patterns that can destroy certain other patterns without taking permanent damage. In that way it they are said to eat the other pattern. 
+Another early discovery was a group of patterns known as [eaters](http://conwaylife.com/wiki/Eater) which are [still life](http://conwaylife.com/wiki/Still_life) patterns that can destroy certain other patterns without taking permanent damage. In that way they they are said to eat the other pattern. 
 
-But some of the most recognizable early patterns were [guns](http://conwaylife.com/wiki/Gun) which are stable, stationary patterens that continually emit [spaceships](http://conwaylife.com/wiki/Spaceship) or gliders. Possibly the most famous of this and possibly the most recognizable Game of Life pattern is the [Gosper's Glider Gun](http://conwaylife.com/wiki/Gosper_glider_gun).
+But some of the most recognizable early patterns were [guns](http://conwaylife.com/wiki/Gun) which are stable, stationary patterens that continually emit [spaceships](http://conwaylife.com/wiki/Spaceship) or gliders. Possibly the most recognizable Game of Life pattern is the [Gosper's Glider Gun](http://conwaylife.com/wiki/Gosper_glider_gun).
 
 Using these and other basic structures as primitives, some [pretty amazing things](http://conwaylife.com/wiki/Gemini) have been engineered. 
 
-As you have probably guessed, The Game of Life is Turing Complete. [Here](http://rendell-attic.org/gol/tm.htm) is a Turning Machine built in it. And [here](https://hal.archives-ouvertes.fr/hal-00461197/document) is a book that explains how it works.
+As you have probably guessed, The Game of Life is Turing Complete. [Here](http://rendell-attic.org/gol/tm.htm) is a Turning Machine built in it and [here](https://hal.archives-ouvertes.fr/hal-00461197/document) is a book that explains how it works.
 
 #### Accidentally Redundant
 In the process of writing this post, I discovered [an awesome blog post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) written by [Andreas Zwinkau](http://beza1e1.tuxen.de/) with the same title  that included quite a few of the same things and more that I didn't know about. I hope this acknowledgment is enough to justify keeping this post, because I'm pretty excited about it. 
 
 If you find this post interesting I would encourage you to read [Andreas' post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) that predates this one (like the Lambda Calculus predates Turing Machines), where you can also find out why Pokemon Yellow, Super Mario World and MS Powerpoint are also Turing Complete.
+
+#### Academic Integrity Disclaimer
+It is also worth noting that throughout this post I play fast and loose with some academic terms that probably have no right to. When you write to me saying [this](https://news.ycombinator.com/item?id=6578999) I will kindly direct you to this disclaimer. 
