@@ -187,4 +187,4 @@ In the process of writing this post, I discovered [an awesome blog post](http://
 If you find this post interesting I would encourage you to read [Andreas' post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) that predates this one (like the Lambda Calculus predates Turing Machines), where you can also find out why Pokemon Yellow, Super Mario World and MS Powerpoint are also Turing Complete.
 
 #### Academic Integrity Disclaimer
-It is also worth noting that throughout this post I play fast and loose with some academic terms that probably have no right to. When you write to me saying [this](https://news.ycombinator.com/item?id=6578999) I will kindly direct you to this disclaimer. 
+It is also worth noting that throughout this post I play fast and loose with some academic terms that I probably have no right to. When you write to me saying [this](https://news.ycombinator.com/item?id=6578999) I will kindly direct you to this disclaimer. 
