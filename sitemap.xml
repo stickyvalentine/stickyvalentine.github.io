@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://stickyvalentine.com/</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/about/</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/30/accidentally-turing-complete.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/27/my-current-workflow-and-priorities.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/24/emacs-static-site-generator-options.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/22/changing-gem-based-jekyll-themes.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/18/tags-on-jekyll-github-pages.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/18/start-a-jekyll-site.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/17/remove-rss-link.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/17/emacs-keybindings-in-macos.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/2018/11/16/change-screenshot-directory.html</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Jekyll</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/themes</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/GitHub</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Emacs</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/keybindings</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/RSS</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Python</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Pages</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Minima</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Markdown</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/MacOS</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Lisp</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Liquid</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Gems</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Bundler</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/tags</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/static-site-generator</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/games</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/editor</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/celular-automation</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Turing-Complete</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Turing</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Screenshots</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Rule-110</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Ruby</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Org-Mode</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Melpa</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Marmalade</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Linux</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Langton's-Ant</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Lambda-Calculus</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/HTML</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/G%C3%B6del</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Git</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Dwarf-Fortress</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Conway's-Game-of-Life</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/Church</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/CSS</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stickyvalentine.com/tag/C</loc>
+  <lastmod>2018-12-02T22:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
