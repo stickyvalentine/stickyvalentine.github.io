@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Accidentally Turning Complete"
+tags: Turing Complete
+abstract: "Turing Complete describes a system that is computationally complete. Here are some things that are unexpectedly turing complete. Also, a little history.
+---
+### Gödel Screws Everything Up
+Once uppon a time, in 1931, a guy named Kurt Gödel proved something bizare and alarming that turned mathematics upside down. For a some time the world of mathematics was focued largly on trying to find a set of axioms that were sufficient to describe all mathematics. Then Gödel proved it wasn't possible. Just shut it down. The swift and fatal blow came in the form of the [Incompleteness Theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) which proved that:
+
+1. A system of a certain complexity can't be both consistant and complete.
+
+2. Consistantcy of axioms can't be proved within their own system.
+
+With that out of the way, many people wondered what else their whole lives could be about. Maybe they needed to dig deeper and first understand what was and wasn't computable. As it turns out, part of the answer to this question was the turing machine.
+
+### Turing Completeness
+A turing machine is a hypothetical computation machine described by Alan Turing in 1936. It's a simple mechanism that reads, writes, and rewrites symbols on a tape following a set of rules. The tape starts with one set of symbols, follows the rules and when it's done ends up with a different set of symbols. As it turns out, this simple machine can compute anything that is computable. Because of this fact, the term 'turing complete' can be used to describe a system that can compupute the same things that a turing machine can; that is to say, anyting computable.
+
+There are other systems that perfectly overlap the abilities of the turing machine. One of these systems was described before the turing machine by a mathemetition named Alanzo Church. That system, known as the Lambda Calculus is a tiny formal system of logic that, even thought it is appears very different from a turing machine, is its formal equivalent. Later, Alan Turing and Alanzo Church would combine and distill the ideas behind these systems in to the famous Church Turing Thesis in an attempt to formalize the notion of computability. 
+
+There is a caveat. Because the turing machine is hypothetical, it can have potentially infinite tape. Since that can't ever be realized, neither can an actual turing complete machine. But if we can overlook this limitation, there are certain real systems that we can call 'turing complete'. This is all a bit of a simplification, but for the scope and purposes of this post it should do.
+
+### To The Point
+But the point of this post isn't a boring history lesson. It's to show you some surprising things that turn out to be turing complete. So lets got on with it.
+
+#### Dwarf Fortress
+Because I love Dwarf Fortress, this is the one that I am the most excited about and the impetus for this post.
+
+For the uninitiated, [Dwarf Fortress](http://www.bay12games.com/dwarves/) is an ASCII-based game that's part builder, part roguelike, and part resource management. It's a vast, complicated game that can be intimidating at first but once you get past that, it will ruin your life.
+
+#### Celular Automata 
+
+**Langton's Ant**
+
+**Rule 110**
+
+**Conway's Game of Life**
+
+#### Minecraft
+
+#### Little Big Planet 3
+
+#### Minesweeper
+
+#### Magic: The Gathering
+
