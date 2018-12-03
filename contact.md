@@ -24,7 +24,7 @@ title: Contact
 
     <input type="text" name="name" size="35" placeholder="Name"><br>
     <input type="email" name="email" size="35" placeholder="Email address"><br>
-    <textarea name="message" rows="10" cols="42" placeholder="Your Message"></textarea><br>
+    <textarea name="message" rows="10" cols="40" placeholder="Your Message"></textarea><br>
     <button type="submit">Send</button>
     
 </form>
