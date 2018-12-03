@@ -9,3 +9,11 @@ I have tried many times to maintain some sort of blog or personal website. This 
 There is a good chance this blog will be abandoned not very long after my third post or so. Let the countdown begin!
 
 -Ben
+
+<form action="https://getform.io/f/3709f960-4951-4882-833f-0065446401df" method="POST">
+
+    Name<input type="text" name="name"><br>
+    Email<input type="email" name="email"><br>
+    <button type="submit">Send</button>
+
+</form>
