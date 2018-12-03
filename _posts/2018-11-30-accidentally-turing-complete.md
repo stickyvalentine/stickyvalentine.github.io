@@ -179,10 +179,10 @@ But some of the most recognizable early patterns were [guns](http://conwaylife.c
 
 Using these and other basic structures as primitives, some [pretty amazing things](http://conwaylife.com/wiki/Gemini) have been engineered. 
 
-As you have probably guessed, The Game of Life is Turing Complete. [Here](http://rendell-attic.org/gol/tm.htm) is a Turning Machine built in it and [here](https://hal.archives-ouvertes.fr/hal-00461197/document) is a book that explains how it works.
+As you have probably guessed, The Game of Life is Turing Complete. [Here](http://rendell-attic.org/gol/tm.htm) is a Turning Machine built with it and [here](https://hal.archives-ouvertes.fr/hal-00461197/document) is a book that explains how it works.
 
 #### Accidentally Redundant
-In the process of writing this post, I discovered [an awesome blog post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) with the same title written by [Andreas Zwinkau](http://beza1e1.tuxen.de/) that included quite a few of the same things and more that I didn't know about. I hope this acknowledgment is enough to justify keeping this post, because I'm pretty excited about it. 
+In the process of writing this post, I discovered [an awesome blog post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) with the same title written by [Andreas Zwinkau](http://beza1e1.tuxen.de/) that includes quite a few of the same things and more that I didn't know about. I hope this acknowledgment is enough to justify keeping this post, because I'm pretty excited about it. 
 
 If you find this post interesting I would encourage you to read [Andreas' post](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) that predates this one (like the Lambda Calculus predates Turing Machines), where you can also find out why Pokemon Yellow, Super Mario World and MS Powerpoint are also Turing Complete.
 
