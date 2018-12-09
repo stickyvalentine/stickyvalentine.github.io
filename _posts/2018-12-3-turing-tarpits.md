@@ -55,7 +55,9 @@ Just as Abraham was the father of many nations, so is brainfuck the progenitor o
 
 **Whitespace** is a language written in entirely whitespace characters, meaning spaces, tabs and linefeeds. As a result, all whitespace code is invisible. The sneaky thing about Whitespace is that it can be secretly tucked away in some interesting places, for example, inside a program in any language that ignores whitespace characters. It's a stack based language (possibly) similar to [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) and (probably) pretty inaccessible.
 
-**Unlambda** is the esolang on this list that I am the most excited about. It is also the first functional esolang. It's based on combinatory logic and closely related to the Lambda Calculus. It uses prefix notation and is parentheses free, for all of the Lisp haters. Most of the instructions are single letters that represent Lambda Combinators. So if you are someone who isn't satisfied until you have found the most difficult way to get something done and you like Functional programming, Unlambda might be the language you have been looking for. 
+**Unlambda** is the esolang on this list that I am the most excited about. It is also the first functional esolang. It's based on combinatory logic and closely related to the Lambda Calculus. It uses prefix notation and is parentheses free, for all of the Lisp haters. Most of the instructions are single letters that represent Lambda Combinators.
+
+So if you are someone who isn't satisfied until you have found the most difficult way to get something done and you like Functional programming, Unlambda might be the language you have been looking for. 
 
 #### Other Tarpits
 
