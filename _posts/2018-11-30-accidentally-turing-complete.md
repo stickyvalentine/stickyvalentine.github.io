@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accidentally Turning Complete"
-tags: Turing-Complete Gödel Church Turing Dwarf-Fortress games celular-automation Lambda-Calculus Rule-110 Conway's-Game-of-Life Langton's-Ant
+tags: Turing-Complete Gödel Church Turing Dwarf-Fortress games celular-automation Lambda-Calculus Rule-110 Conway's-Game-of-Life Langton's-Ant Turing-Machine
 abstract: "'Turing Complete' describes a system that is computationally complete. Here are some things that are unexpectedly turing complete and a little history."
 ---
 ### Gödel Screws Everything Up
