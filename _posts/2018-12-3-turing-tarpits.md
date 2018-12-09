@@ -8,7 +8,7 @@ As a follow-up to the post about [the unexpectedly Turing Complete](/2018/11/30/
 
 Turing Completeness is incredibly powerful. Staggeringly and beautifully so. But simply being Turing Complete does not necessarily make a thing useful. In fact often these systems are inaccessible almost to the point of uselessness, at least to humans.
 
-The term often associated with this type of system is *Turing Tarpit*. While often applied to [esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) that are designed to be interesting in their minimalism or intentional difficulty it can also be used to describe systems that are Turing Complete but inaccessible for for useful work. These might be systems that are proven to be Turing Complete because they are academically interesting or possibly a part of some of other problem or proof. For some examples of Turing Tarpits, see the post mentioned above.
+The term often associated with this type of system is *Turing Tarpit*. While often applied to [esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) that are designed to be interesting in their minimalism or intentional difficulty it can also be used to describe other systems that are Turing Complete but inaccessible for for useful work. These might be systems that are proven to be Turing Complete because they are academically interesting or possibly a part of some of other problem or proof. For some examples of Turing Tarpits, see the post mentioned above.
 
 In this post I am going to highlight some things that are pretty useless aside from the fact that they can compute almost everything. Maybe you know a person like that.
 
