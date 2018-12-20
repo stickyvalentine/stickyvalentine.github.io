@@ -51,7 +51,7 @@ Just as Abraham was the father of many nations, so is brainfuck the progenitor o
 * Smallfuck operates only on bits and has no input- or output-commands.
 * Puzzlang turns every program into an exercise in patience and logic puzzle skills. The lone X operator becomes any of brainfuck's instructions, depending on the surrounding characters.
 * Alarm Clock Radio - throws away the instructions to decrement the memory pointer or memory value.
-* Portal and Portal 2 - allows code-level pointer manipulation and theoretically implements the Wang-B Machine.
+* Portal and Portal 2 - allows code-level pointer manipulation and theoretically implements the [Wang-B Machine](https://en.wikipedia.org/wiki/Wang_B-machine).
 
 **Whitespace** is a language written in entirely whitespace characters, meaning spaces, tabs and linefeeds. As a result, all whitespace code is invisible. The sneaky thing about Whitespace is that it can be secretly tucked away in some interesting places, for example, inside a program in any language that ignores whitespace characters. It's a stack based language (possibly) similar to [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) and (probably) pretty inaccessible.
 
@@ -84,4 +84,4 @@ For some fun Lambda Calculus puzzles, read [To Mock a Mockingbird](http://www.en
 
 #### Conclusion
 
-Turing Tarpit is a fun, snarky name for things that may not be *immediately* useful, but I think it's worth noting that Computer Science itself is built out of things that are difficult at their atomic level. It's only after layers of abstraction are built up that they become useful. But those layers are tailored with specific purposes in mind and the utility that is gained comes at the cost of flexibility. Even some of these extreme or ridiculous examples can serve to remind us that the shape of things as we know them is not the only shape they can be. Incremental utility doesn't need to be the only guiding tenant of Computer Science. That sometimes its helpful to step back and look at the infinite possibilities instead of what is immediately useful. 
+Turing Tarpit is a fun, snarky name for things that may not be *immediately* useful, but I think it's worth noting that Computer Science itself is built out of things that are difficult at their atomic level. It's only after layers of abstraction are built up that they become useful. But those layers are tailored with specific purposes in mind and the utility that is gained comes at the cost of flexibility. Even some of these extreme or ridiculous examples can serve to remind us that the shape of things as we know them is not the only shape they can be. Incremental utility doesn't need to be the only guiding tenant of Computer Science. Sometimes it's helpful to step back and look at the infinite possibilities instead of what is immediately useful. 
